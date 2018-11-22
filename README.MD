@@ -18,7 +18,7 @@ MKOnlineMusicPlayer 是一款开源的基于 `Meting` 的在线音乐播放器�
 -----
 **收藏功能在线演示** [https://xptt.com/i/yinyue/](https://xptt.com/i/yinyue/)
 
-**收藏功能下载地址** [https://raw.githubusercontent.com/zhengyong100/MKOnlineMusicPlayer-xptt/master/yinyue1.1.zip](点击下载)
+**收藏功能下载地址** 看文件列表里面的最高版本号，点击zip下载。
 
 **详细介绍** [http://mkblog.cn/1060/](http://mkblog.cn/1060/)
 
